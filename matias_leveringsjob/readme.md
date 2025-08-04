@@ -1,4 +1,4 @@
-**Scriptet er lavet af mig, Matias**
+**Scriptet er lavet af Matias**
 
 **Kredit og Betingelser:**  
 Jeg har selv udviklet dette script og sætter stor pris på, at du vælger at bruge det. Du er meget velkommen til at dele det med andre – så længe du husker at kreditere **mig** som skaberen.  
@@ -32,3 +32,4 @@ Har du spørgsmål eller brug for hjælp, så er du meget velkommen i min Discor
 **[Matias Scripts | Discord](https://discord.gg/qPj9D2CyUS)**
 
 **God fornøjelse med scriptet!**
+
